@@ -1,0 +1,17 @@
+# macOS system files
+.DS_Store
+
+# VS Code
+*.code-workspace
+
+# Jupyter/Outputs
+*.ipynb_checkpoints/
+
+# Python venv
+__pycache__/
+*.pyc
+.venv/
+
+# Data
+data/.DS_Store
+.github/copilot-instructions.md
